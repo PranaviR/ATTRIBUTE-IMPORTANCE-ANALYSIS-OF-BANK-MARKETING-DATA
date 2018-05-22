@@ -1,4 +1,4 @@
-# Data-analytics-and-mining
+# ATTRIBUTE IMPORTANCE ANALYSIS OF BANK MARKETING DATA
 
 Documentation.docx : Description of the steps followed in weka for the project as well as information about the code section
 
